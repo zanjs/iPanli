@@ -41,6 +41,7 @@ program.action(() => {
     ])
     .then(answer => {
       const { description, templete, title } = answer
+      console.log(answer)
       const { fileName } = getFileName(description)
 
       fs.mkdir(path.resolve(appRootPath, './', `src/views/${fileName}`), err => {

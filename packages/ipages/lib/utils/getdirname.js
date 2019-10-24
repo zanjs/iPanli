@@ -3,6 +3,8 @@ const path = require('path')
 
 const matchName = str => str.match(/[^\/]+$/)[0]
 
+let appRootPath = process.cwd()
+
 const readdir = dir => {
   let results = [path.resolve(dir)]
   const files = fs.readdirSync(dir, 'utf8')
@@ -19,7 +21,7 @@ const readdir = dir => {
   return results
 }
 const getDirectoryName = () => {
-  const filePaths = readdir(path.resolve(__dirname, '../../', 'src/views/'))
+  const filePaths = readdir(path.resolve(appRootPath, './', 'src/views/'))
   return filePaths.map(item => {
     return matchName(item)
   })
