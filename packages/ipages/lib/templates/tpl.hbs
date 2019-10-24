@@ -1,0 +1,7 @@
+import content from './{{fileName}}.ejs'
+import layout from '{{templateName}}'
+const title = '{{title}}'
+
+const temp = layout.init({ title }).run(content())
+
+export default temp

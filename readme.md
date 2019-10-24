@@ -6,7 +6,7 @@
 ```
 
 ```
-lerna add @ipanli/logs  --scope  @ipanli/fetch
+lerna add @ipanli/logs  --scope  @ipanli/ps-cli
 ```
 
 ```

@@ -1,0 +1,36 @@
+{
+  "name": "@ipanli/ps-cli",
+  "version": "0.0.3",
+  "description": "> : description",
+  "author": "ZanJS <suihuasheng@gmail.com>",
+  "homepage": "https://github.com/zanjs/iPanli#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "bin": {
+    "ps-cli": "./lib/index.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanjs/iPanli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/zanjs/iPanli/issues"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.2",
+    "handlebars": "^4.4.5",
+    "inquirer": "^7.0.0"
+  },
+  "gitHead": "45b7b264c5223adf5c9fc14191d274ea5152f40a"
+}
