@@ -1,13 +1,13 @@
 {
-  "name": "root",
-  "private": true,
-  "devDependencies": {
-    "lerna": "^3.18.3"
-  },
-  "scripts": {
-    "pub": "lerna publish --skip-git --registry https://registry.npmjs.org/"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  }
+	"name": "root",
+	"private": true,
+	"devDependencies": {
+		"lerna": "^3.20.2"
+	},
+	"scripts": {
+		"pub": "lerna publish --skip-git --registry https://registry.npmjs.org/"
+	},
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org/"
+	}
 }

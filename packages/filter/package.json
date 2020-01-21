@@ -1,6 +1,6 @@
 {
 	"name": "@ipanli/filter",
-	"version": "0.0.373",
+	"version": "0.0.5",
 	"description": "> TODO: description",
 	"author": "zan <suihuasheng@gmail.com>",
 	"license": "ISC",
@@ -17,5 +17,6 @@
 	},
 	"dependencies": {
 		"@ipanli/app-terminal": "^0.0.306"
-	}
+	},
+	"gitHead": "4ac6b019df837ed0247b9eff5bd17a1725991d70"
 }

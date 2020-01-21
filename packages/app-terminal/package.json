@@ -1,6 +1,6 @@
 {
 	"name": "@ipanli/app-terminal",
-	"version": "0.0.373",
+	"version": "0.0.5",
 	"description": "> TODO: description",
 	"author": "ZanJS <suihuasheng@gmail.com>",
 	"license": "ISC",
@@ -14,5 +14,6 @@
 	],
 	"scripts": {
 		"test": "echo \"Error: run tests from root\" && exit 1"
-	}
+	},
+	"gitHead": "4ac6b019df837ed0247b9eff5bd17a1725991d70"
 }

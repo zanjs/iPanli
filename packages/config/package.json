@@ -1,0 +1,14 @@
+{
+	"name": "@ipanli/config",
+	"version": "0.0.5",
+	"description": "> TODO: description",
+	"author": "zan <suihuasheng@gmail.com>",
+	"license": "ISC",
+	"main": "index.js",
+	"files": [
+		"index.js",
+		"index.d.ts",
+		"client.js",
+		"client.d.ts"
+	]
+}

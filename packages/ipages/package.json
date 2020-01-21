@@ -1,6 +1,6 @@
 {
   "name": "@ipanli/ps-cli",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "> : description",
   "author": "ZanJS <suihuasheng@gmail.com>",
   "homepage": "https://github.com/zanjs/iPanli#readme",
@@ -32,5 +32,5 @@
     "handlebars": "^4.4.5",
     "inquirer": "^7.0.0"
   },
-  "gitHead": "45b7b264c5223adf5c9fc14191d274ea5152f40a"
+  "gitHead": "4ac6b019df837ed0247b9eff5bd17a1725991d70"
 }
