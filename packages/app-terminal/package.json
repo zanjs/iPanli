@@ -1,0 +1,18 @@
+{
+	"name": "@ipanli/app-terminal",
+	"version": "0.0.373",
+	"description": "> TODO: description",
+	"author": "ZanJS <suihuasheng@gmail.com>",
+	"license": "ISC",
+	"main": "lib/app-terminal.js",
+	"directories": {
+		"lib": "lib",
+		"test": "__tests__"
+	},
+	"files": [
+		"lib"
+	],
+	"scripts": {
+		"test": "echo \"Error: run tests from root\" && exit 1"
+	}
+}

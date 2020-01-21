@@ -1,0 +1,21 @@
+{
+	"name": "@ipanli/filter",
+	"version": "0.0.373",
+	"description": "> TODO: description",
+	"author": "zan <suihuasheng@gmail.com>",
+	"license": "ISC",
+	"main": "lib/filter.js",
+	"directories": {
+		"lib": "lib",
+		"test": "__tests__"
+	},
+	"files": [
+		"lib"
+	],
+	"scripts": {
+		"test": "echo \"Error: run tests from root\" && exit 1"
+	},
+	"dependencies": {
+		"@ipanli/app-terminal": "^0.0.306"
+	}
+}
