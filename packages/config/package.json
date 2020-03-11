@@ -1,6 +1,6 @@
 {
 	"name": "@ipanli/config",
-	"version": "0.0.5",
+	"version": "0.0.8",
 	"description": "> TODO: description",
 	"author": "zan <suihuasheng@gmail.com>",
 	"license": "ISC",
@@ -10,5 +10,6 @@
 		"index.d.ts",
 		"client.js",
 		"client.d.ts"
-	]
+	],
+	"gitHead": "830449ffc3a0f72f35a54a2c70ba76c06802661a"
 }
